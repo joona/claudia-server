@@ -1,0 +1,25 @@
+{
+  "name": "claudia-server",
+  "version": "1.0.0",
+  "description": "Simple HTTP server for serving Claudia API Builder powered Lambda functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joona/claudia-server.git"
+  },
+  "keywords": [
+    "claudia",
+    "claudia-api-builder",
+    "lambda",
+    "aws"
+  ],
+  "author": "Joona Kulmala <jmkulmala@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joona/claudia-server/issues"
+  },
+  "homepage": "https://github.com/joona/claudia-server#readme"
+}
